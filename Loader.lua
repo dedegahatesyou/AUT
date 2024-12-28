@@ -1,3 +1,5 @@
+-- this is just a backup incase it gets deleted :P
+
 repeat task.wait() until game:IsLoaded() 
 
 local Farm = loadstring(game:HttpGet('http://stingray-digital.online/script/aut/farm'))() 
