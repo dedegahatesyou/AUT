@@ -4,7 +4,7 @@ repeat task.wait() until game:IsLoaded()
 
 local Farm = loadstring(game:HttpGet('https://raw.githubusercontent.com/dedegahatesyou/AUT/refs/heads/main/Farm.lua'))() 
 local AUTFunctions = loadstring(game:HttpGet('https://raw.githubusercontent.com/dedegahatesyou/AUT/refs/heads/main/Functions.lua'))() 
-local GUI = loadstring(game:HttpGet('http://stingray-digital.online/script/ui'))() 
+local GUI = loadstring(game:HttpGet('https://raw.githubusercontent.com/dedegahatesyou/AUT/refs/heads/main/GUI.lua'))() 
 
 local function Main(State) 
   if State == 1 then 
